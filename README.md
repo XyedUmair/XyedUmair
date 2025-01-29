@@ -9,7 +9,7 @@
 
 - # Hi 👋, I'm **Umair Hayat**
 
-A passionate full-stack web developer from India.
+A passionate full-stack web developer from Pakistan.
 
 ---
 
