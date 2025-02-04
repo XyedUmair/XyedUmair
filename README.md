@@ -1,84 +1,149 @@
 <h1 align="center">Hi 👋, I'm Umair Hayat</h1>
-<h3 align="center">A passionate frontend developer from pakistan </h3>
+<h3 align="center">A Passionate Full-Stack Web Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyedumair&label=Profile%20views&color=0e75b6&style=flat" alt="xyedumair" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyedumair" alt="xyedumair" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/umairhayat" target="blank"><img src="https://img.shields.io/twitter/follow/umairhayat?logo=twitter&style=for-the-badge" alt="umairhayat" /></a> </p>
-
-- # Hi 👋, I'm **Umair Hayat**
-
-A passionate full-stack web developer from Pakistan.
-
----
-
-## 🔭 I’m currently working on:
-- Enhancing my skills at **Logicgigs Pvt Ltd** where I’m learning **MERN** and **MEAN** stack development.
-
-## 👯 I’m looking to collaborate on:
-- Exciting web development projects.
-
-## 🤝 I’m looking for help with:
-- Learning advanced **MERN** and **MEAN** stack concepts.
-
-## 🌱 I’m currently learning:
-- **MERN** and **MEAN** stack development.
-
-## 💬 Ask me about:
-- **HTML, CSS, JS, PHP, and full-stack development**.
-
-## 📫 How to reach me:
-- [mianumairhayatkakakhel42@gmail.com](mailto:mianumairhayatkakakhel42@gmail.com)
-
-## 👨‍💻 All of my projects are available at:
-- [Portfolio Link](#)
-
-## 📝 I regularly write articles on:
-- [Blog Link](#)
-
-## 📄 Know about my experiences:
-- [Resume Link](#)
-
----
-
-## Projects:
-
-- **College and School Management System** (PHP):  
-  A comprehensive management system built for colleges and schools to handle student records, courses, exams, and other essential administrative tasks.
-
-- **Various Small Projects**:  
-  Worked on several small-scale projects to improve my skills in **HTML, CSS, JavaScript, and PHP**.
-
----
-
-## 👨‍🏫 Special Thanks to My Mentor:
-
-I would like to express my sincere gratitude to my teacher, whose guidance and support have been invaluable in my journey as a web developer. Their teachings have played a significant role in shaping my skills and knowledge in full-stack development.
-
----
-
-## ⚡ Fun fact:
-I always optimize my code like it’s my last commit—clean, efficient, and ready for production. 🚀
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/umairhayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="umairhayat" height="30" width="40" /></a>
-<a href="https://dev.to/umairhayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="umairhayat" height="30" width="40" /></a>
-<a href="https://twitter.com/umairhayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umairhayat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xyedumair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xyedumair" height="30" width="40" /></a>
-<a href="https://fb.com/xyedumair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xyedumair" height="30" width="40" /></a>
-<a href="https://instagram.com/xyedumair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyedumair" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xyedumair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xyedumair" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/xyedumair">
+    <img src="https://komarev.com/ghpvc/?username=xyedumair&label=Profile%20views&color=0e75b6&style=flat" alt="xyedumair" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xyedumair" alt="xyedumair" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xyedumair&show_icons=true&locale=en&layout=compact" alt="xyedumair" /></p>
+<p align="center">
+  <a href="https://twitter.com/umairhayat" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/umairhayat?logo=twitter&style=for-the-badge" alt="umairhayat" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyedumair&show_icons=true&locale=en" alt="xyedumair" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyedumair&" alt="xyedumair" /></p>
+## 🔭 Currently Working On
 
+- Enhancing my skills at **Logicgigs Pvt Ltd** by exploring **MERN** and **MEAN** stack development.
+
+## 👯 Looking to Collaborate On
+
+- Exciting web development projects and innovative ideas.
+
+## 🤝 Seeking Help With
+
+- Advanced concepts in **MERN** and **MEAN** stack development.
+
+## 🌱 Currently Learning
+
+- Deepening my knowledge of the **MERN** and **MEAN** stacks.
+
+## 💬 Ask Me About
+
+- **HTML, CSS, JavaScript, PHP,** and full-stack development best practices.
+
+## 📫 How To Reach Me
+
+- [mianumairhayatkakakhel42@gmail.com](mailto:mianumairhayatkakakhel42@gmail.com)
+
+## 👨‍💻 Projects Showcase
+
+- **College and School Management System (PHP):**  
+  A comprehensive management system designed for educational institutions to handle student records, courses, and exams.
+  
+- **Various Small Projects:**  
+  A collection of projects focused on **HTML, CSS, JavaScript,** and **PHP** that helped sharpen my development skills.
+
+---
+
+## 📝 Blog & Resume
+
+- [Portfolio](#)  
+- [Blog](#)  
+- [Resume](#)
+
+---
+
+## 👨‍🏫 Special Thanks
+
+A big thank you to my mentor and teacher whose guidance has been pivotal in my journey as a developer.
+
+---
+
+## ⚡ Fun Fact
+
+I always optimize my code like it’s my last commit — clean, efficient, and production-ready. 🚀
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://codepen.io/umairhayat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" width="40" height="40" />
+  </a>
+  <a href="https://dev.to/umairhayat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="40" height="40" />
+  </a>
+  <a href="https://twitter.com/umairhayat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/xyedumair" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://fb.com/xyedumair" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/xyedumair" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="https://www.youtube.com/c/xyedumair" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+## Languages and Tools
+
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xyedumair&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyedumair&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyedumair" alt="GitHub Streak" />
+</p>
