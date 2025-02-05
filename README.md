@@ -15,13 +15,10 @@
 
 <p align="center">
   <a href="https://twitter.com/umairhayat" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/umairhayat?logo=twitter&style=for-the-badge" alt="umairhayat" />
+    <img src="https://img.shields.io/github/follow/xyedumair?logo=twitter&style=for-the-badge" alt="umairhayat" />
   </a>
 </p>
-<p align="center">
-  <a href="https://twitter.com/umairhayat" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/umairhayat?logo=twitter&style=for-the-badge" alt="umairhayat" />
-  </a>
+
 </p>
 ---------------
 
