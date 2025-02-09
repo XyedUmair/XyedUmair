@@ -56,11 +56,6 @@ I have experience with a variety of full-stack web technologies:
 
 ---
 
-## 🖼️ Image:  
-![Wake Up to Reality](https://www.tiktok.com/@syedumair001/media/example.jpg)
-
----
-
 ## 🖥️ Computer Languages & Icons:
 Here are some of the languages I work with:
 
