@@ -19,6 +19,8 @@
 </p>
 
 </p>
+[Follow me on GitHub](https://github.com/xyedumair)
+
 ---------------
 
 ## 🔭 Currently Working On
