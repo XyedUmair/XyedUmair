@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! 🚀  
 I’m a passionate **Full Stack Web Developer** with a strong foundation in front-end and back-end technologies.
 
+![Wake Up to Reality](https://www.tiktok.com/@syedumair001/media/example.gif)  <!-- Replace with your actual image link -->
+
 ## 🌟 About Me:
 I specialize in **Full Stack Web Development** and have experience in building responsive and dynamic websites using technologies like **JavaScript, React, Node.js**, and **MongoDB**.
 
@@ -56,6 +58,17 @@ I have experience with a variety of full-stack web technologies:
 
 ## 🖼️ Image:  
 ![Wake Up to Reality](https://www.tiktok.com/@syedumair001/media/example.jpg)
+
+---
+
+## 🖥️ Computer Languages & Icons:
+Here are some of the languages I work with:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)  
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)  
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)  
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
