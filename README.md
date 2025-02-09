@@ -12,10 +12,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=xyedumair" alt="xyedumair" />
   </a>
 </p>
-
 <p align="center">
-  <a href="https://twitter.com/umairhayat" target="_blank">
-    <img src="https://img.shields.io/github/follow/xyedumair?logo=twitter&style=for-the-badge" alt="umairhayat" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=syedumair001" alt="GitHub Trophies" />
   </a>
 </p>
 
