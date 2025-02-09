@@ -1,4 +1,4 @@
-# Hi there, I'm **xyedumair** 👋
+# Hi there, I'm **XyedUmair** 👋
 
 Welcome to my GitHub profile! 🚀  
 I’m a passionate **Full Stack Web Developer** with a strong foundation in front-end and back-end technologies.
@@ -73,3 +73,11 @@ Here are some of the languages I work with:
 ---
 
 Feel free to explore my repositories, contribute, or reach out to me for collaboration or just a chat! 😄
+<br>
+<br>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
