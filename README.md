@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🚀  
 I’m a passionate **Full Stack Web Developer** with a strong foundation in front-end and back-end technologies.
 
-![Wake Up to Reality]([https://tenor.com/bz0UAay6JMU.gif](https://tenor.com/view/alex-naruto-gif-1189243686461946398))
+![Wake Up to Reality][https://tenor.com/bz0UAay6JMU.gif](https://tenor.com/view/alex-naruto-gif-1189243686461946398)
 
 ## 🌟 About Me:
 I specialize in **Full Stack Web Development** and have experience in building responsive and dynamic websites using technologies like **JavaScript, React, Node.js**, and **MongoDB**.
