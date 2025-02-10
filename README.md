@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🚀  
 I’m a passionate **Full Stack Web Developer** with a strong foundation in front-end and back-end technologies.
 
-![Wake Up to Reality](https://www.tiktok.com/@syedumair001/media/example.gif)  <!-- Replace with your actual image link -->
+![Wake Up to Reality]([https://www.tiktok.com/@syedumair001/media/example.gif](https://tenor.com/bz0UAay6JMU.gif))  <!-- Replace with your actual image link -->
 
 ## 🌟 About Me:
 I specialize in **Full Stack Web Development** and have experience in building responsive and dynamic websites using technologies like **JavaScript, React, Node.js**, and **MongoDB**.
