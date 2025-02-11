@@ -72,7 +72,7 @@ Here are some of the languages I work with:
 ---
 
 Feel free to explore my repositories, contribute, or reach out to me for collaboration or just a chat! 😄
-</div>
+
 <br>
 <br>
 <br>
