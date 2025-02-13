@@ -69,7 +69,7 @@ Here are some of the languages I work with:
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)  
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
+--- 
 
 Feel free to explore my repositories, contribute, or reach out to me for collaboration or just a chat! 😄
 
